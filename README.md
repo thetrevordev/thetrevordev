@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Trevor.
 - 👀 I’m interested in Spring Boot, Angular, and distributed topologies with Docker containers
 - 🌱 I’m currently learning AWS
+- ⌨️ I'm an avid Neovim enjoyer
