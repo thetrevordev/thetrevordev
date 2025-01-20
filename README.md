@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Trevor
-- 👀 I’m interested in Spring Boot, Angular, and distributed topologies of Docker containers
-- 🌱 I’m currently learning Go
+- 👀 I’m interested in Machine Learning and Deep Learning, Angular, and Spring Boot
+- 🌱 I’m currently mastering Python
 - ⚡️ I'm an avid Neovim enjoyer
