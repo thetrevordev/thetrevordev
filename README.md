@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Trevor
-- 👀 I’m interested in Machine Learning, React, and heterogeneous backend topologies.
-- 🌱 I’m currently building a substantial project.
+- 👀 I’m interested in Machine Learning, FastAPI, React, and heterogeneous backend topologies.
+- 🌱 I’m currently building a PaaS platform.
 - ⚡️ I'm a linux & vim motions advocate
