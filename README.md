@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Trevor.
-- 💡 I work with Machine Learning, FastAPI, React, and containerized topologies.
-- 🚀 Currently building a PaaS platform.
-- 💻 I run Arch Linux w/ Hyprland, and live in Vim motions.
+- 💡 I work with FastAPI, React, and distributed systems.
+- 🚀 Building a PaaS platform.
+- 🖤 Arch Linux + Hyprland + Vim
