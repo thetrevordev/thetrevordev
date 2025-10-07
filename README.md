@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Trevor.
-- 💡 I work with FastAPI, React, and distributed systems.
-- 🚀 Building a PaaS platform.
+- 👋 Hi, I’m Trevor
+- 💡 I work with FastAPI, React, and distributed systems
+- 🚀 Building a PaaS
 - 🖤 Arch Linux + Hyprland + Vim
