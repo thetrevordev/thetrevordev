@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Trevor
-- 👀 I’m interested in Machine Learning, FastAPI, React, and heterogeneous backend topologies.
-- 🌱 I’m currently building a PaaS platform.
-- ⚡️ I'm a linux & vim motions advocate
+- 👋 Hi, I’m Trevor.
+- 💡 I work with Machine Learning, FastAPI, React, and containerized topologies.
+- 🚀 Currently building a PaaS platform.
+- 💻 I run Arch Linux w/ Hyprland, and live in Vim motions.
