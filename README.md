@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Trevor
-- 💡 I work with Rust, FastAPI, and React
-- 🚀 Building a PaaS
-- 🖤 Arch Linux + Hyprland + Vim
+I'm Trevor.
+
+Always open to talking about Rust, Linux, and Neovim; TypeScript and Kubernetes are pretty great too.
